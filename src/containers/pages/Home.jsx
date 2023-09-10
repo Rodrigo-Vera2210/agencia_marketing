@@ -10,7 +10,6 @@ import LogoCloud from "components/home/LogoCloud"
 import BlogList from "components/home/BlogList"
 import { useEffect } from "react"
 import { Helmet } from "react-helmet-async";
-import { motion } from "framer-motion"
 
 function Home(){
     useEffect(()=>{
